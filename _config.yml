@@ -46,7 +46,7 @@ timezone:      null
 title: Jekyll Theme
 description: Just another Jekyll theme design and code by zhanxin.info.
 keywords: Jekyll Theme
-url: /StrayBirds
+url: /lzj
 feed: /atom.xml
 favicon: http://avatars.githubusercontent.com/tyale
 
@@ -101,12 +101,12 @@ disqus:
 #################################### global configure #######################################
 
 username: tyale
-baseurl: /StrayBirds
+baseurl: /lzj
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
-description: 人生到处知何似，应似飞鸿踏雪泥
+title: Tyale
+description: 人生若只如初见，何事秋风悲画扇。
 theme: kunka
 disqusname: tyale
 
