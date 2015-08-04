@@ -60,14 +60,12 @@ nav:
     url: navigations/archives.html
   - text: 联系我
     url: navigations/contact.html
-  - text: 友情链接
-    url: navigations/links.html
 
 #Author config
 author:
     name: tyale
     email: tyale@live.com
-    imageLink: https://avatars.githubusercontent.com/minixalpha
+    imageLink: https://avatars.githubusercontent.com/tyale
     simpleIntro: 我是 tyale
     detailIntro:
       <p>Jekyll 是一个简洁的、特别针对博客平台的 静态网站 生成器。它使用一个模板目录作为网站布局的基础框架，并在其上运行 Textile 、 Markdown 或 Liquid 标记语言的转换器，最终生成一个完整的静态Web站点，可以被放置在Apache或者你喜欢的其他任何Web服务器上。它同时也是 GitHub Pages 、一个由 GitHub 提供的用于托管项目主页或博客的服务，在后台所运行的引擎。</p>
@@ -79,14 +77,9 @@ follow:
     url: /atom.xml
   - class: icon-weibo
     url: http://weibo.com
-  - class: icon-renren
-    url: http://renren.com
   - class: icon-github-alt
     url: http://github.com
-  - class: icon-twitter
-    url: http://twitter.com
-  - class: icon-google-plus
-    url: http://google.com
+
 
 #Links
 customLinks:
